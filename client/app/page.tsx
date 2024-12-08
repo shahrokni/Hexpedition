@@ -1,8 +1,9 @@
 import Image from "next/image";
 import styles from "./page.module.css";
+import { JSX } from "react";
 
-export default function Home() {
-  const a = 0;
+
+export default function Home():JSX.Element {    
   return (
     <div className={styles.page}>
       <main className={styles.main}>
