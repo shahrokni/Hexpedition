@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "stack_ds.h": "c",
+    "cunit.h": "c"
+  }
+}
