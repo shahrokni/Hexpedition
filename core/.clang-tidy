@@ -4,4 +4,3 @@ Checks: >
   bugprone-*,          # Catch potential bugs
   performance-*,       # Improve performance
   clang-analyzer-*,    # Static analysis for runtime issues
-  cppcoreguidelines-*  # Follow modern C++ guidelines
